@@ -19,26 +19,30 @@ The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **
 
 ## 📂 Project Structure
 ```
-financial_rag/
-│── backend/
-│   │── __init__.py
-│   │── chatbot.py
-│   │── document_processor.py
-│   │── vector_db.py
-│── data/
-│   │── chroma_db/
-│   │── embeddings/
-│   │── uploaded_pdfs/
-│── models/
-│── utils/
-│   │── __init__.py
-│   │── logger.py
-│   │── search_engine.py
-│── main.py
-│── tests/
-│── .env
+Financial_Reports_Analyzer_RAG_with_DeepSeek_R1/
 │── README.md
 │── requirements.txt
+│── setup.py
+│── financial_rag/
+│   │── main.py
+│   │── configure.py
+│   │── .env
+│   │── backend/
+│   │   │── __init__.py
+│   │   │── chatbot.py
+│   │   │── document_processor.py
+│   │   │── vector_db.py
+│   │── data/
+│   │   │── chroma_db/
+│   │   │── embeddings/
+│   │   │── uploaded_pdfs/
+│   │── models/
+│   │   │── __init__.py
+│   │   │── models.py
+│   │── utils/
+│   │   │── __init__.py
+│   │   │── logger.py
+│   │   │── search_engine.py
 ```
 
 ## 🔧 Installation
