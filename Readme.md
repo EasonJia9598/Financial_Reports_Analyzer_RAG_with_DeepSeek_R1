@@ -3,6 +3,12 @@
 ## 📌 Overview
 The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **Retrieval-Augmented Generation (RAG)** to analyze and extract valuable insights from financial reports. It integrates **Large Language Models (LLMs)**, **vector databases**, and **NLP techniques** to provide **accurate, real-time** financial knowledge retrieval and analysis.
 
+> DeepSeek R1 is Thinking
+![DeepSeek R1 is Thinking](./images/0_thinking.png)
+
+> Backend Result of Prompt
+![Backend Result of Prompt](./images/2_backend.png)
+
 ## ✨ Features
 - 📊 **AI-powered Financial Report Analysis** - Uses LLMs to process and extract key financial insights.
 - 🔍 **Vector Database Integration** - Efficient retrieval of financial documents.
