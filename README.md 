@@ -1,0 +1,87 @@
+# 🚀 Financial Reports Analyzer RAG
+
+![Financial Reports Analyzer](./static/images/canada/maple.jpg)
+
+## 📌 Overview
+The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **Retrieval-Augmented Generation (RAG)** to analyze and extract valuable insights from financial reports. It integrates **Large Language Models (LLMs)**, **vector databases**, and **NLP techniques** to provide **accurate, real-time** financial knowledge retrieval and analysis.
+
+## ✨ Features
+- 📊 **AI-powered Financial Report Analysis** - Uses LLMs to process and extract key financial insights.
+- 🔍 **Vector Database Integration** - Efficient retrieval of financial documents.
+- 📈 **NLP-driven Sentiment Analysis** - Extracts market sentiment from financial texts.
+- 🤖 **Chatbot for Financial Q&A** - Answers financial-related queries with up-to-date information.
+- 📂 **Document Processing Pipeline** - Converts raw financial documents into structured formats.
+- ⚡ **Fast and Scalable API** - Built with **FastAPI** for real-time financial analysis.
+
+## 📂 Project Structure
+```
+financial_rag/
+│── backend/
+│   │── __init__.py
+│   │── chatbot.py
+│   │── document_processor.py
+│   │── vector_db.py
+│── data/
+│   │── chroma_db/
+│   │── embeddings/
+│   │── uploaded_pdfs/
+│── models/
+│── utils/
+│   │── __init__.py
+│   │── logger.py
+│   │── search_engine.py
+│── main.py
+│── tests/
+│── .env
+│── README.md
+│── requirements.txt
+```
+
+## 🔧 Installation
+### 1️⃣ **Clone the repository**
+```sh
+git clone https://github.com/EasonJia9598/financial_rag.git
+cd financial_rag
+```
+
+### 2️⃣ **Create a virtual environment**
+```sh
+python -m venv env
+source env/bin/activate  # On Windows: env\Scriptsctivate
+```
+
+### 3️⃣ **Install dependencies**
+```sh
+pip install -r requirements.txt
+```
+
+### 4️⃣ **Set up environment variables**
+Create a `.env` file in the root directory and configure:
+```
+OPENAI_API_KEY=your_openai_api_key
+CHROMA_DB_PATH=./data/chroma_db
+```
+
+### 5️⃣ **Run the application**
+```sh
+python main.py
+```
+
+## 🏗️ Technologies Used
+- **Python** 🐍
+- **FastAPI** ⚡
+- **OpenAI GPT** 🤖
+- **ChromaDB** 📊
+- **LangChain** 🧠
+- **FAISS** 🔍
+- **Selenium** 🌐
+- **Pandas & NumPy** 📊
+- **Matplotlib & Seaborn** 📈
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ✉️ Contact
+For any inquiries, reach out via:
+- **GitHub**: [EasonJia9598](https://github.com/EasonJia9598)
+- **Email**: your_email@example.com

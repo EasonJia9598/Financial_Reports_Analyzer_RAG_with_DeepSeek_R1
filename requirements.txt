@@ -1,0 +1,11 @@
+chromadb==0.6.3
+sentence-transformers==3.4.1
+langchain==0.3.18
+pdfminer.six==20240706
+requests==2.32.3
+numpy==2.2.3
+tqdm==4.67.1
+fastapi==0.115.8
+python-multipart==0.0.20
+python-dotenv==1.0.1
+

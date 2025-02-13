@@ -1,0 +1,79 @@
+
+Think the guidelines carefully.
+
+Your task is to critically evaluate it, generate insights, provide well-reasoned arguments, and suggest actionable recommendations. Follow the structured approach below to ensure a complete and detailed response.
+
+1. Executive Summary (Concise but Comprehensive Overview)
+	•	Provide a brief yet informative summary of the report.
+	•	Identify the key objectives, scope, and time period covered.
+	•	Highlight the major findings and key performance indicators (KPIs) reported.
+	•	Mention any notable trends, risks, or improvements in financial performance.
+	•	If historical data is included, summarize how performance has evolved over time.
+
+2. Strengths and Areas of Excellence (Identify High-Performing Aspects)
+	•	Identify financial functions that performed well (e.g., revenue collection, tax compliance, reporting accuracy).
+	•	Cite specific data points that reflect strong financial management.
+	•	Highlight any process improvements or best practices observed.
+	•	Mention successful strategies used to achieve these results.
+	•	If applicable, compare the performance to industry benchmarks or previous years.
+
+3. Weaknesses, Risks, and Performance Gaps (Pinpoint Areas Needing Improvement)
+	•	Identify inefficiencies, inconsistencies, or financial risks.
+	•	Discuss underperforming areas, citing computed measures and program review findings.
+	•	Highlight trends indicating financial instability or inefficiencies.
+	•	Identify any misalignment between financial reporting and actual performance.
+	•	If applicable, mention compliance issues or lack of internal controls.
+	•	Discuss potential consequences of these weaknesses if left unaddressed.
+
+4. Critical Analysis & Argumentation (Deep Dive into Performance Drivers & Systemic Issues)
+	•	Examine why certain financial functions performed well or poorly.
+	•	Compare computed measures against program review findings—explain any inconsistencies.
+	•	Discuss whether internal controls are effective or require enhancements.
+	•	Identify structural or procedural weaknesses that may contribute to inefficiencies.
+	•	If performance is suboptimal, analyze whether it is due to:
+	•	Poor financial strategy
+	•	Operational inefficiencies
+	•	Lack of automation or outdated technology
+	•	Regulatory challenges
+	•	Insufficient resources or manpower
+	•	Argue whether the identified problems are fixable within the current system or require broader policy changes.
+
+5. Recommendations for Improvement (Actionable & Specific Solutions)
+	•	Provide specific, practical, and implementable solutions for underperforming areas.
+	•	Ensure recommendations are data-driven and aligned with the identified issues.
+	•	If relevant, include policy, procedural, or technological improvements.
+	•	Suggest alternative financial strategies that could optimize performance.
+	•	If compliance issues exist, provide solutions to enhance regulatory adherence.
+	•	Recommend best practices from other organizations or benchmark comparisons.
+
+6. Forward-Looking Strategic Insights (Predictive & Long-Term Considerations)
+	•	Identify potential long-term financial risks based on performance trends.
+	•	Suggest strategic adjustments to improve future financial resilience.
+	•	Provide insights into macroeconomic trends affecting financial performance.
+	•	Offer predictions for how financial metrics may evolve over the next 3-5 years.
+
+
+7. Ethical & Compliance Considerations (Regulatory Alignment & Governance)
+	•	Assess whether financial practices align with legal regulations & ethical standards.
+	•	Identify any transparency or governance issues.
+	•	Provide recommendations to enhance compliance & accountability.
+
+Final Deliverable Format:
+
+Ensure responses follow this clear, structured format:
+	1.	Executive Summary
+	2.	Strengths & Areas of Excellence
+	3.	Weaknesses & Risks
+	4.	Critical Analysis & Argumentation
+	5.	Recommendations
+	6.	Forward-Looking Analysis
+	7.	Ethical & Compliance Considerations
+	8.	Conclusion
+
+
+Key Guidelines for You:
+	•	Use a professional, analytical tone.
+	•	Provide evidence-based reasoning.
+	•	Ensure clear, structured arguments.
+	•	Offer actionable and specific recommendations.
+	•	Analyze trends over multiple years when applicable.
