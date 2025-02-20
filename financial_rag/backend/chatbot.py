@@ -10,7 +10,7 @@ class Chatbot:
         self.embed_model = EmbeddingModel()
 
     def get_relevant_context(self, question, num_result=10):
-        """ 从向量数据库获取相关上下文 """
+        """ Retrieve relevant context from the vector database """
         query_embedding = self.embed_model.encode([question]).tolist()
         results = self.vector_db.query_documents(query_embedding, num_result)
 
@@ -20,7 +20,7 @@ class Chatbot:
         return "\n\n".join(f"[{idx+1}] {doc[:200]}..." for idx, doc in enumerate(results) if isinstance(doc, str))
 
     def stream_response(self, user_input, num_chunks):
-        """ 实时流式响应 """
+        """ Real-time streaming response """
         # 获取上下文
         if num_chunks > 0:
             context_text = self.get_relevant_context(user_input, num_chunks)
@@ -57,7 +57,7 @@ class Chatbot:
         with st.chat_message("assistant"):
             response_container = st.empty()
             generated_text = ""
-            inside_think = False  # 追踪 <think> 代码块
+            inside_think = False  # Track <think> code block
 
             for token in self.llm.model.stream(prompt):
                 if "<think>" in token:
@@ -73,7 +73,7 @@ class Chatbot:
 
                 generated_text += token
 
-                # **优化**：每 50ms 刷新 UI，而不是等整个消息结束
+                # Optimization: Refresh the UI every 50ms instead of waiting for the entire message to finish.
                 response_container.markdown(generated_text, unsafe_allow_html=True)
 
             st.session_state.chat_history.append({"role": "assistant", "content": generated_text})
