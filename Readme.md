@@ -15,7 +15,7 @@ The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **
 - 📈 **NLP-driven Sentiment Analysis** - Extracts market sentiment from financial texts.
 - 🤖 **Chatbot for Financial Q&A** - Answers financial-related queries with up-to-date information.
 - 📂 **Document Processing Pipeline** - Converts raw financial documents into structured formats.
-- ⚡ **Fast and Scalable API** - Built with **FastAPI** for real-time financial analysis.
+- ⚡ **Fast and Scalable ** - Built with **LangChain** for real-time financial analysis with RAG.
 
 ## 📂 Project Structure
 ```
@@ -72,12 +72,11 @@ CHROMA_DB_PATH=./data/chroma_db
 
 ### 5️⃣ **Run the application**
 ```sh
-python main.py
+streamlit run main.py
 ```
 
 ## 🏗️ Technologies Used
 - **Python** 🐍
-- **FastAPI** ⚡
 - **OpenAI GPT** 🤖
 - **ChromaDB** 📊
 - **LangChain** 🧠
@@ -85,11 +84,8 @@ python main.py
 - **Selenium** 🌐
 - **Pandas & NumPy** 📊
 - **Matplotlib & Seaborn** 📈
-
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ✉️ Contact
 For any inquiries, reach out via:
 - **GitHub**: [EasonJia9598](https://github.com/EasonJia9598)
-- **Email**: your_email@example.com
