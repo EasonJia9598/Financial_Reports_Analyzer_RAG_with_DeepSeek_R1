@@ -17,7 +17,7 @@ This system runs locally using the DeepSeek R1 model, powered by Ollama or vLLM 
 - 📈 **NLP-driven Sentiment Analysis** - Extracts market sentiment from financial texts.
 - 🤖 **Chatbot for Financial Q&A** - Answers financial-related queries with up-to-date information.
 - 📂 **Document Processing Pipeline** - Converts raw financial documents into structured formats.
-- ⚡ **Fast and Scalable ** - Built with **LangChain** for real-time financial analysis with RAG.
+- ⚡ **Fast and Scalable** - Built with **LangChain** for real-time financial analysis with RAG.
 
 ## 📂 Project Structure
 ```
