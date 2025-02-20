@@ -1,5 +1,7 @@
 # 🚀 Financial Reports Analyzer RAG
 
+Author: Zesheng Jia
+
 ## 📌 Overview
 The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **Retrieval-Augmented Generation (RAG)** to analyze and extract valuable insights from financial reports. It integrates **Large Language Models (LLMs)**, **vector databases**, and **NLP techniques** to provide **accurate, real-time** financial knowledge retrieval and analysis.
 
