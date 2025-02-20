@@ -3,7 +3,7 @@
 ## 📌 Overview
 The **Financial Reports Analyzer RAG** is an AI-powered system that leverages **Retrieval-Augmented Generation (RAG)** to analyze and extract valuable insights from financial reports. It integrates **Large Language Models (LLMs)**, **vector databases**, and **NLP techniques** to provide **accurate, real-time** financial knowledge retrieval and analysis.
 
-This system runs locally using the DeepSeek R1 model, powered by Ollama or vLLM for efficient on-device execution. With a Streamlit-based GUI, it enables seamless financial report analysis while ensuring data privacy. Because the model operates entirely offline, it is ideal for highly confidential environments, such as organizations and individuals who prefer to keep their financial data secure and independent from cloud providers.
+This system runs locally using the DeepSeek R1 model, powered by Ollama or vLLM for efficient on-device execution. With a Streamlit-based GUI I wrote from scratch, it enables seamless financial report analysis while ensuring data privacy. Because the model operates entirely offline, it is ideal for highly confidential environments, such as organizations and individuals who prefer to keep their financial data secure and independent from cloud providers.
 
 > DeepSeek R1 is Thinking
 ![DeepSeek R1 is Thinking](./images/0_thinking.png)
