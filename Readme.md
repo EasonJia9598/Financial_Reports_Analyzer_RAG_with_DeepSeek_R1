@@ -85,7 +85,7 @@ streamlit run main.py
 - **Pandas & NumPy** 📊
 - **Matplotlib & Seaborn** 📈
 ## 📜 License
-
+GNU GENERAL PUBLIC LICENSE, Version 3
 ## ✉️ Contact
 For any inquiries, reach out via:
 - **GitHub**: [EasonJia9598](https://github.com/EasonJia9598)
