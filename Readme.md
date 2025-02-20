@@ -79,7 +79,7 @@ streamlit run main.py
 
 ## 🏗️ Technologies Used
 - **Python** 🐍
-- **OpenAI GPT** 🤖
+- **DeepSeek R1** 🤖
 - **ChromaDB** 📊
 - **LangChain** 🧠
 - **FAISS** 🔍
